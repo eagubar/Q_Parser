@@ -13,3 +13,9 @@
 # Getting Started
 > Download and install!
 > https://github.com/eagubar/Q_Parser/releases/download/v3.0.0/QCAT_ParserV3-Setup.exe
+
+> strongly recommended creating a desktop shortcut
+
+![image](https://github.com/eagubar/Q_Parser/assets/41457204/5b970171-b54d-49c3-804e-5d91fc856410)
+
+> Otherwise run it mannualy at path location C:\Program Files (x86)\eagubar\Q_Parser\QCAT_ParserV3.exe
