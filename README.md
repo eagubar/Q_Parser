@@ -2,7 +2,7 @@
 ![image](https://github.com/eagubar/Q_Parser/assets/41457204/cd857a03-8b4a-4076-b604-e8dbd8e4cf28)
 
 
-> Q_Parser is a command-line framework that harnesses the power of advanced parsing algorithms to navigate through complex QXDM/QCAT log files. It extracts crucial information with precision and accuracy.
+> 'Q_Parser' is a command-line framework that harnesses the power of advanced parsing algorithms to navigate through complex QXDM/QCAT log files. It extracts crucial information with precision and accuracy.
 
 > The tool is built with the end-user in mind, simplifying the data extraction process and offering an intuitive interface that makes it accessible to both seasoned engineers and newcomers to the field.
 
